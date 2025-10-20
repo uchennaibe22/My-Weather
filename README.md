@@ -1,7 +1,8 @@
 # 🌦️ My Weather
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/uchennaibe22/My-Weather/blob/main/screenshot.png?raw=true)
+
 
 
 A  Flask web app that displays real-time weather information for any city using the OpenWeatherMap API.  
