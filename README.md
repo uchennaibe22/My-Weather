@@ -5,6 +5,7 @@
 
 
 
+
 A  Flask web app that displays real-time weather information for any city using the OpenWeatherMap API.  
 Built with Python, HTML, and CSS.
 
