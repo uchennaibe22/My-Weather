@@ -1,7 +1,7 @@
 # 🌦️ My Weather
 
 ## 📸 Screenshot
-![App Screenshot](https://github.com/uchennaibe22/My-Weather/blob/main/screenshot.png?raw=true)
+<img src="https://github.com/uchennaibe22/My-Weather/blob/main/screenshot.png?raw=true" width="700" />
 
 
 
